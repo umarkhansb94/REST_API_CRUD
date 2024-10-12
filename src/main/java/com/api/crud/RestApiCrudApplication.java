@@ -9,7 +9,7 @@ public class RestApiCrudApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiCrudApplication.class, args);
 
-
+       System.out.println("Hello India");
 	}
 
 }
